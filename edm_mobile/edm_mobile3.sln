@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{CB4CE8C6-1BDB-4DC7-A4D3-65A1999772F8}") = "edm_mobile4", "edm_mobile4.vbdproj", "{D4BBE6A4-20F3-4ABC-87CE-D13A23561273}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D4BBE6A4-20F3-4ABC-87CE-D13A23561273}.Debug.ActiveCfg = Debug|Pocket PC
+		{D4BBE6A4-20F3-4ABC-87CE-D13A23561273}.Debug.Build.0 = Debug|Pocket PC
+		{D4BBE6A4-20F3-4ABC-87CE-D13A23561273}.Debug.Deploy.0 = Debug|Pocket PC
+		{D4BBE6A4-20F3-4ABC-87CE-D13A23561273}.Release.ActiveCfg = Release|Pocket PC
+		{D4BBE6A4-20F3-4ABC-87CE-D13A23561273}.Release.Build.0 = Release|Pocket PC
+		{D4BBE6A4-20F3-4ABC-87CE-D13A23561273}.Release.Deploy.0 = Release|Pocket PC
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

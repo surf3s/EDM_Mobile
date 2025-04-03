@@ -1,0 +1,17 @@
+Version 1.9 
+
+Additions
+
+Added plotting feature
+
+
+Fixes
+
+Unit defaults will only be changed when Suffix = 0.  This makes it much easier to take a shot, change its ID, change its suffix, and then carry on after this with what would have been normally the next number.  This is important for closing buckets.
+
+Fixed annoying bug wherein you had to click away and then click back to first field in the edit list to actually get the menu to activate.
+
+Verison 1.10
+
+Additions
+Add Leica-Geo for newer Leica total station that only support the GeoCOM format.
